@@ -1,3 +1,5 @@
+#Prints pieces on chessboard
+
 class Piece:
     """Represents a single chess piece."""
     def __init__(self, color, type):
